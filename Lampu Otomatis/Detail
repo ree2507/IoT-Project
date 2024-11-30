@@ -1,1 +1,15 @@
+30/11/24
 
+Deskripsi Project:
+Project IoT sederhana ini adalah lampu pintar berbasis IoT yang dapat menyala dan mati secara otomatis saat mendeteksi suara tepukan tangan. 
+
+Komponen yang digunakan:
+- Arduino nano
+- Sensor suara
+- Relay 1 channel
+- Kabel jumper
+- Breadboard
+- Lampu
+- Fitting
+- Kabel steker
+- Kabel usb
